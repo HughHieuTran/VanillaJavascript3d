@@ -29,8 +29,8 @@ header {
     padding: 0.9rem 0;
     top: 0;
     left: 0;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    background-color: #333;
+    background-color: #0b372dbd;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.9);
 }
 
 header nav {
